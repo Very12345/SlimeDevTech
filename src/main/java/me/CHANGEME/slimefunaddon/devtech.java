@@ -1,4 +1,4 @@
-package me.CHANGEME.slimefunaddon;
+package me.very12345.devtech;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
